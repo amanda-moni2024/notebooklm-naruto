@@ -89,6 +89,85 @@ Foram apresentados diferentes estilos de liderança e mentoria exercidos pelos p
 
 Naruto e Gaara foram identificados como exemplos de superação e crescimento pessoal.
 
+# 🤖 Engenharia de Prompts
+
+## Prompt 1
+
+### Pergunta
+
+> Como lidar com falhas usando a mentalidade do Naruto?
+
+### Resposta do NotebookLM
+
+O NotebookLM destacou que a mentalidade de Naruto transforma o fracasso em uma oportunidade de crescimento, apresentando cinco pilares principais:
+
+### 1. Redefinir a verdadeira força
+
+- A força não significa nunca falhar, mas levantar-se após cada queda.
+- O erro fortalece o caráter.
+- A determinação é mais importante do que o talento.
+
+### 2. Encarar o fracasso como aprendizado
+
+- Cada falha representa um degrau para a evolução.
+- Não existem atalhos para o sucesso.
+- As maiores dificuldades podem se transformar em grandes fortalezas.
+
+### 3. Não aceitar rótulos
+
+- O potencial é definido por suas escolhas e não pelos julgamentos dos outros.
+- O destino pode ser transformado através das próprias ações.
+
+### 4. Aceitar as próprias limitações
+
+- Reconhecer erros faz parte do processo de amadurecimento.
+- O autoconhecimento permite evoluir continuamente.
+
+### 5. Manter o foco no objetivo
+
+- O fracasso só se torna definitivo quando desistimos.
+- Persistência e compromisso são fundamentais para alcançar objetivos de longo prazo.
+
+### Aprendizado
+
+A principal lição obtida foi que o fracasso não representa o fim da jornada, mas uma etapa necessária para o desenvolvimento pessoal e profissional.
+
+---
+
+## Prompt 2
+
+### Pergunta
+
+> Quais lições o Naruto ensina sobre nunca desistir?
+
+### Resposta do NotebookLM
+
+O NotebookLM identificou cinco ensinamentos principais:
+
+### 1. Resiliência
+
+A verdadeira força está na capacidade de continuar mesmo diante das dificuldades.
+
+### 2. Autoconfiança
+
+O esforço precisa ser acompanhado da crença no próprio potencial.
+
+### 3. Persistência diária
+
+Grandes conquistas são construídas através de pequenas ações realizadas todos os dias.
+
+### 4. Compromisso com os próprios objetivos
+
+Naruto demonstra que manter sua palavra e seus valores é essencial para alcançar seus sonhos.
+
+### 5. Nunca abandonar seus sonhos
+
+Desistir significa interromper o próprio processo de crescimento.
+
+### Aprendizado
+
+Os ensinamentos mostram que persistência, disciplina e confiança são elementos indispensáveis para superar desafios tanto na vida pessoal quanto na carreira profissional.
+
 ---
 
 # ⚠️ Troubleshooting (Dificuldades Encontradas)
